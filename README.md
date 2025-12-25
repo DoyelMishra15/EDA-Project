@@ -1,6 +1,5 @@
-# 📊 EDA Projects
-
-## 1. 🛍️ Online Retail – EDA Project
+# 🛍️ Online Retail – EDA Project
+---
 **Notebook:** [`online_retail.ipynb`](./online_retail.ipynb)  
 **Description:**  
 An exploratory data analysis on an online retail dataset containing transactions from 2010–2011.
